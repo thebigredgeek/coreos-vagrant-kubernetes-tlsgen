@@ -1,0 +1,8 @@
+ca-key.pem
+ca.pem
+apiserver.pem
+apiserver-key.pem
+worker.pem
+worker-key.pem
+admin.pem
+admin-key.pem
